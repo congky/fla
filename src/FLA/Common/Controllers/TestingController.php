@@ -2,9 +2,9 @@
 namespace FLA\Controllers;
 
 use Illuminate\Http\Request;
-use Illuminate\Routing\Controllers;
+use Illuminate\Routing\Controller;
 
-class TestingController extends Controllers
+class TestingController extends Controller
 {
 
     public function test(Request $request)
