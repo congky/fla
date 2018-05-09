@@ -1,5 +1,5 @@
 <?php
-namespace App\Http\Controllers;
+namespace App\Http\Controllers\FLA\Common;
 
 class TestController extends Controller
 {
