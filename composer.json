@@ -19,7 +19,7 @@
 	"autoload": {
         "psr-4": {
             "FLA\\": "src/FLA",
-            "App\\Http\\Controllers\\": "src/FLA/Common/Controllers"
+            "App\\Http\\Controllers\\FLA\\Common\\": "src/FLA/Common/Controllers"
         }
     }
 }
