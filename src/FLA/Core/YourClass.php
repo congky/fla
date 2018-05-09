@@ -1,6 +1,6 @@
 <?php
 
-namespace fla\core;
+namespace FLA\Core;
 
 /**
 *  A sample class
